@@ -13,5 +13,4 @@ def compare_files(file1_path, file2_path):
         else:
             print("Файлы содержат различные числа.")
 
-# Замените 'file1.txt' и 'file2.txt' на пути к вашим файлам
 compare_files('c_real.txt', 'c.txt')
